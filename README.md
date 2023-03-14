@@ -1,5 +1,5 @@
 # HackingWithSwift-1
-## Hello everyone. Do you know that i am a student of Hacking With Swift. :boom: Today, 20th day. :muscle:  I am already learned many information about Swift with this app. This app is my first Swift App.   
+## Hello everyone. Do you know that i am a student of Hacking With Swift. :boom: Today, 20th day. :muscle:  I learned many information about Swift with this app. This app is my first Swift App.   
 
 
 ## :pushpin: I learned create array list and append at list elements.
